@@ -1,0 +1,5 @@
+.git
+.env
+sample-tasks
+__pycache__
+*.jsonl
